@@ -1,0 +1,14 @@
+
+Given a list. All numbers in the list
+check for parity.
+If the number is even then calculate the sum of the digits.
+If odd then replace it with 1 in the list.
+All words: count the number of vowels and consonants.
+Display everything on the screen.
+-----------------------------------------------------
+Дан список. Все числа списка
+проверить на четность.
+Если число четное то посчитать сумму цифр.
+Если нечетное то заменить его на 1 в списке.
+Все слова: посчитать колличество гласных и согласных.
+Вывести все на экран.
